@@ -17,11 +17,11 @@ The through-line in everything below is one idea: **models make decisions, code 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/musabqazi/cavello-lab"><img src="https://raw.githubusercontent.com/musabqazi/cavello-lab/main/cover.png" width="100%"/></a>
-<br/><b>Cavello Lab</b> 🟢<br/>
+<a href="https://github.com/musabqazi/carousel-lab"><img src="https://raw.githubusercontent.com/musabqazi/carousel-lab/main/cover.png" width="100%"/></a>
+<br/><b>Carousel Lab</b> 🟢<br/>
 Transcript in, finished on-brand Instagram carousel out, in about two minutes — with a human approving every one. Models return structured decisions only; a deterministic template engine renders every pixel, so output never drifts run to run.<br/>
 <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/><br/>
-<a href="https://github.com/musabqazi/cavello-lab">Case study →</a>
+<a href="https://github.com/musabqazi/carousel-lab">Case study →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/musabqazi/hook-lab"><img src="https://raw.githubusercontent.com/musabqazi/hook-lab/main/cover.png" width="100%"/></a>
