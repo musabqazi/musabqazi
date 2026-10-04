@@ -1,17 +1,21 @@
-## Musab Qazi
+<div align="center">
 
-**AI Automation Engineer.** I build autonomous multi-step LLM pipelines — the kind that run unattended and have to be *right*, not just plausible.
+<a href="https://musab-qazi.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=46&lines=AI+Automation+Engineer;Autonomous+multi-step+LLM+pipelines;Models+decide.+Code+enforces." alt="AI Automation Engineer"/></a>
+
+<p>
+<a href="https://musab-qazi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/qazi-musab-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:qazimusab1992@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Karachi,_PK-7c3aed?style=for-the-badge&logoColor=white"/>
+</p>
+
+</div>
+
+I build autonomous multi-step LLM pipelines — the kind that run unattended and have to be *right*, not just plausible.
 
 The through-line in everything below is one idea: **models make decisions, code enforces them.** An LLM is asked for structured judgement. The rules that must hold every single time are checked deterministically, in code, where nothing can talk its way around them.
 
-<p>
-<img src="https://img.shields.io/badge/Karachi,_Pakistan-0d1117?style=flat-square&labelColor=7c3aed"/>
-<img src="https://img.shields.io/badge/~2_years-AI_automation-0d1117?style=flat-square&labelColor=7c3aed"/>
-<a href="mailto:qazimusab1992@gmail.com"><img src="https://img.shields.io/badge/qazimusab1992%40gmail.com-22d3ee?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
 ---
-
 ### Systems
 
 <table>
@@ -67,11 +71,26 @@ Plans a truck route with HOS-compliant stops and draws the FMCSA daily log sheet
 
 ### Stack
 
-**Languages** TypeScript · Python · SQL
-**Data** PostgreSQL · Supabase · Prisma · Drizzle · pgvector
-**AI** Claude & Gemini APIs · tool calling · RAG · structured output · eval harnesses · deterministic gate layers
-**Infra** Docker · BullMQ + Redis · CI/CD · VPS deployment behind Traefik · monitoring and incident diagnosis
-**Web** Next.js · React · Tailwind · Three.js
+| | |
+|---|---|
+| **Languages** | TypeScript · Python · SQL |
+| **Data** | PostgreSQL · Supabase · Prisma · Drizzle · pgvector |
+| **AI** | Claude & Gemini APIs · tool calling · RAG · structured output · eval harnesses · deterministic gate layers |
+| **Infra** | Docker · BullMQ + Redis · CI/CD · VPS deployment behind Traefik · monitoring and incident diagnosis |
+| **Web** | Next.js · React · Tailwind · Three.js |
+
+
+---
+
+### Contribution trail
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musabqazi/musabqazi/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musabqazi/musabqazi/output/github-snake.svg"/>
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/musabqazi/musabqazi/output/github-snake.svg" width="100%"/>
+</picture>
+</div>
 
 ---
 
@@ -79,4 +98,6 @@ Plans a truck route with HOS-compliant stops and draws the FMCSA daily log sheet
 
 Most of what I build is client work under NDA. Those repos carry the architecture, the reasoning and the screenshots; the code stays private. Where a system ships without its data, there is a README describing the expected shape and a synthetic fixture so it still runs. Happy to walk through any of it live.
 
-<sub>Karachi, Pakistan · <a href="mailto:qazimusab1992@gmail.com">qazimusab1992@gmail.com</a></sub>
+<div align="center">
+<sub>Karachi, Pakistan · <a href="mailto:qazimusab1992@gmail.com">qazimusab1992@gmail.com</a> · <a href="https://musab-qazi.vercel.app/">musab-qazi.vercel.app</a></sub>
+</div>
