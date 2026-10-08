@@ -28,41 +28,28 @@ Helps US medical practices collect what patients still owe after insurance pays.
 <a href="https://github.com/musabqazi/collections-workspace">Case study →</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/musabqazi/outbound-engine"><img src="https://raw.githubusercontent.com/musabqazi/outbound-engine/main/cover.png" width="100%"/></a>
+<br/><b>Outbound Engine</b> 🟢<br/>
+Research-first AI SDR. Sources and enriches accounts, researches each one against its own public evidence, and writes copy that a second model and a rules engine both have to clear before it can send.<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/><br/>
+<a href="https://github.com/musabqazi/outbound-engine">Case study →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/musabqazi/carousel-lab"><img src="https://raw.githubusercontent.com/musabqazi/carousel-lab/main/cover.png" width="100%"/></a>
 <br/><b>Carousel Lab</b> 🟢<br/>
 Transcript in, finished on-brand Instagram carousel out, in about two minutes — with a human approving every one. Models return structured decisions only; a deterministic template engine renders every pixel, so output never drifts run to run.<br/>
 <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/><br/>
 <a href="https://github.com/musabqazi/carousel-lab">Case study →</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://github.com/musabqazi/hook-lab"><img src="https://raw.githubusercontent.com/musabqazi/hook-lab/main/cover.png" width="100%"/></a>
-<br/><b>Hook Lab</b> 🟢<br/>
-Writes and judges the on-screen text hook for a short-form clip, working backwards from the ending. Generation and judging are separate agents, and the critic scores blind against real winning hooks inserted unlabeled.<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white"/><br/>
-<a href="https://github.com/musabqazi/hook-lab">Case study →</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/musabqazi/caption-lab"><img src="https://raw.githubusercontent.com/musabqazi/caption-lab/main/cover.png" width="100%"/></a>
-<br/><b>Caption Lab</b> 🟢<br/>
-Writes one caption for one clip, in one client's voice — not a good caption, <i>theirs</i>. The client's own proven captions outrank generic craft, enforced by ten deterministic gates before anything reaches the judge.<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/><br/>
-<a href="https://github.com/musabqazi/caption-lab">Case study →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>Portfolio site</b> 🟢<br/>
-Seven case studies in AI automation, all client names anonymised. Next.js 16, GSAP and a 19,683-point Three.js particle system that morphs once per section — sphere, torus knot, wave field, lattice, double helix.<br/>
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/><br/>
-<a href="https://github.com/musabqazi/portfolio">Source →</a>
-</td>
-<td width="50%" valign="top">
-<b>ELD Trip Planner</b><br/>
-Plans a truck route with HOS-compliant stops and draws the FMCSA daily log sheets.<br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-<a href="https://github.com/musabqazi/eld-trip-planner">Source →</a>
+<b>Also shipped</b><br/><br/>
+<a href="https://github.com/musabqazi/autopost-ai">Autopost AI</a> — multi-platform scheduling and publishing, quota scored from the platforms' own numbers.<br/><br/>
+<a href="https://github.com/musabqazi/agency-reporting-portal">Agency Reporting Portal</a> — white-label client reporting with branded PDFs.<br/><br/>
+<a href="https://github.com/musabqazi/automation-platform">Automation Platform</a> — managed workflow automation deployed per client.<br/><br/>
+<a href="https://github.com/musabqazi/hook-lab">Hook Lab</a> · <a href="https://github.com/musabqazi/caption-lab">Caption Lab</a> — short-form copy systems with blind critic scoring.<br/><br/>
+<a href="https://github.com/musabqazi/portfolio">Portfolio site</a> · <a href="https://github.com/musabqazi/eld-trip-planner">ELD Trip Planner</a>
 </td>
 </tr>
 </table>
