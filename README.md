@@ -28,31 +28,47 @@ Helps US medical practices collect what patients still owe after insurance pays.
 <a href="https://github.com/musabqazi/collections-workspace">Case study →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/musabqazi/outbound-engine"><img src="https://raw.githubusercontent.com/musabqazi/outbound-engine/main/cover.png" width="100%"/></a>
-<br/><b>Outbound Engine</b> 🟢<br/>
-Research-first AI SDR. Sources and enriches accounts, researches each one against its own public evidence, and writes copy that a second model and a rules engine both have to clear before it can send.<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/><br/>
-<a href="https://github.com/musabqazi/outbound-engine">Case study →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/musabqazi/carousel-lab"><img src="https://raw.githubusercontent.com/musabqazi/carousel-lab/main/cover.png" width="100%"/></a>
-<br/><b>Carousel Lab</b> 🟢<br/>
-Transcript in, finished on-brand Instagram carousel out, in about two minutes — with a human approving every one. Models return structured decisions only; a deterministic template engine renders every pixel, so output never drifts run to run.<br/>
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/><br/>
-<a href="https://github.com/musabqazi/carousel-lab">Case study →</a>
-</td>
-<td width="50%" valign="top">
-<b>Also shipped</b><br/><br/>
-<a href="https://github.com/musabqazi/autopost-ai">Autopost AI</a> — multi-platform scheduling and publishing, quota scored from the platforms' own numbers.<br/><br/>
-<a href="https://github.com/musabqazi/agency-reporting-portal">Agency Reporting Portal</a> — white-label client reporting with branded PDFs.<br/><br/>
-<a href="https://github.com/musabqazi/automation-platform">Automation Platform</a> — managed workflow automation deployed per client.<br/><br/>
-<a href="https://github.com/musabqazi/hook-lab">Hook Lab</a> · <a href="https://github.com/musabqazi/caption-lab">Caption Lab</a> — short-form copy systems with blind critic scoring.<br/><br/>
-<a href="https://github.com/musabqazi/portfolio">Portfolio site</a> · <a href="https://github.com/musabqazi/eld-trip-planner">ELD Trip Planner</a>
+<a href="https://github.com/musabqazi/outbound-sales-system"><img src="https://raw.githubusercontent.com/musabqazi/outbound-sales-system/main/cover.png" width="100%"/></a>
+<br/><b>Outbound Sales System</b> 🟢<br/>
+Research-first AI SDR. Every lead is a row in a state machine — nothing is messaged until it has been researched, scored above threshold, drafted, and cleared by a second model and a rules engine.<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Firecrawl-F97316?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white"/><br/>
+<a href="https://outbound-sales-system-demo.vercel.app"><b>Live demo →</b></a> · <a href="https://github.com/musabqazi/outbound-sales-system">Case study →</a>
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/document-intelligence">Document Intelligence</a></b><br/>
+Classifies, parses and extracts documents and invoices into validated data, with a confidence score and a citation on every field.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/lead-engine">Lead Engine</a></b><br/>
+Verified, deduplicated accounts with a fit score and a brief, without depending on any single paid vendor.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/voice-receptionist">Voice Receptionist</a></b><br/>
+Inbound AI phone agent. Answers every call, books against real calendar availability, hands to a human on low confidence.
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/viral-script-generator">Viral Script Generator</a></b><br/>
+Turns a creator's proven videos into a private voice model, then writes ten ranked, ready-to-record scripts on demand.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/autopost-ai">Autopost AI</a></b><br/>
+Multi-platform scheduling and publishing, with quota compliance scored from the platforms' own numbers.
+</td>
+<td width="33%" valign="top">
+<b><a href="https://github.com/musabqazi/carousel-lab">Carousel Lab</a></b><br/>
+Transcript in, finished on-brand carousel out in about two minutes. Models decide; a deterministic engine renders every pixel.
+</td>
+</tr>
+</table>
+
+<sub>Also: <a href="https://github.com/musabqazi/agency-reporting-portal">Agency Reporting Portal</a> · <a href="https://github.com/musabqazi/automation-platform">Automation Platform</a> · <a href="https://github.com/musabqazi/knowledge-assistant">Knowledge Assistant</a> · <a href="https://github.com/musabqazi/browser-operator">Browser Operator</a> · <a href="https://github.com/musabqazi/whatsapp-agent">WhatsApp Agent</a> · <a href="https://github.com/musabqazi/hook-lab">Hook Lab</a> · <a href="https://github.com/musabqazi/caption-lab">Caption Lab</a> · <a href="https://github.com/musabqazi/portfolio">Portfolio site</a> · <a href="https://github.com/musabqazi/eld-trip-planner">ELD Trip Planner</a></sub>
 
 ---
 
